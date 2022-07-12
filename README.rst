@@ -1,6 +1,6 @@
 |MNE|_
 
-.. |MNE| image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/Louisiana%20Tech%20University.png
+.. |MNE| image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/logo.png
 .. _MNE: https://mne.tools/dev/
 
 Visual Neuroscience Lab
