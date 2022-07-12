@@ -2,6 +2,7 @@
 
 .. |MNE| image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/logo.png
                 :width: 400
+                
 Visual Neuroscience Lab
 ==========
 
