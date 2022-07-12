@@ -1,6 +1,6 @@
 |MNE|_
 
-.. |MNE| image:: https://drive.google.com/file/d/1dBC8Rvs13eDQfISGDG7E7SllPY_yCNzl/view?usp=sharing
+.. |MNE| image:: https://drive.google.com/drive/u/0/recent
 .. _MNE: https://mne.tools/dev/
 
 Visual Neuroscience Lab
