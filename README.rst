@@ -2,7 +2,7 @@
 
 
 .. |MNE| image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/logo.png
-                :width: 400
+                :width: 600
 .. _MNE: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab
 
 Visual Neuroscience Lab
