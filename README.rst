@@ -1,7 +1,7 @@
 |MNE|_
 
 .. |MNE| image:: https://mne.tools/stable/_static/mne_logo.svg
-
+.. _MNE: https://mne.tools/dev/
 
 Visual Neuroscience Lab
 ==========
