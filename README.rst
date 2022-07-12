@@ -1,6 +1,10 @@
-image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/logo.png
+|MNE|_
+
+
+.. |MNE| image:: https://github.com/TrevorChadwick/Visual-Neuroscience-Lab/blob/main/logo.png
                 :width: 400
-                
+.. _MNE: https://mne.tools/dev/
+
 Visual Neuroscience Lab
 ==========
 
